@@ -1,0 +1,5 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2areacirculo\obj\Debug\net5.0\2areacirculo.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2areacirculo\obj\Debug\net5.0\2areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2areacirculo\obj\Debug\net5.0\2areacirculo.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2areacirculo\obj\Debug\net5.0\2areacirculo.csproj.CoreCompileInputs.cache
