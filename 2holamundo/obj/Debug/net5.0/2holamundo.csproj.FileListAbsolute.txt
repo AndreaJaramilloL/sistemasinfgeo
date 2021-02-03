@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\ref\2holamundo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\bin\Debug\net5.0\2holamundo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\ref\2holamundo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\2holamundo\obj\Debug\net5.0\2holamundo.genruntimeconfig.cache
