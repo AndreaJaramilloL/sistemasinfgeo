@@ -1,0 +1,5 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\4pagot\obj\Debug\net5.0\4pagot.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\4pagot\obj\Debug\net5.0\4pagot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\4pagot\obj\Debug\net5.0\4pagot.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\4pagot\obj\Debug\net5.0\4pagot.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\4pagot\obj\Debug\net5.0\4pagot.csproj.CoreCompileInputs.cache
