@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\ref\3areatriangulo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\bin\Debug\net5.0\3areatriangulo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\ref\3areatriangulo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\3areatriangulo\obj\Debug\net5.0\3areatriangulo.genruntimeconfig.cache
