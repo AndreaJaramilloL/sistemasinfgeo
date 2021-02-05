@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\ref\5ciclos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\bin\Debug\net5.0\5ciclos.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\ref\5ciclos.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\5ciclos\obj\Debug\net5.0\5ciclos.genruntimeconfig.cache
