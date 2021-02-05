@@ -71,6 +71,8 @@ namespace _5ciclos
                         }while(c>=4);
                         Console.WriteLine("\nla suma es {0} ",suma);
                    }   break;
+                   default: Console.WriteLine("opcion no implementada"); 
+                   break;
                 }
                      
             
