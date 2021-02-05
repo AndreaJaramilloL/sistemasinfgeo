@@ -23,7 +23,7 @@ namespace _5ciclos
             }
             op=int.Parse(args[0]);
             switch(op){
-                case 1:{
+                case 1:{//numeros del 1 al 100 con while
                         c=1;suma=0;
                             while(c<=100){
                                 Console.Write("{0} ",c);
@@ -32,7 +32,48 @@ namespace _5ciclos
                         }
                         Console.WriteLine("\nla suma es {0} ",suma);
                    }   break;
-            }
+                   case 2:{ //numeros del 100 al 1 usando do.. while
+                        c=100;suma=0;
+                           do{
+                                Console.Write("{0} ",c);
+                                suma+=c;
+                                c--;
+                        }while(c>=1);
+                        Console.WriteLine("\nla suma es {0} ",suma);
+                   }   break;
+                   case 3 :{//numeros del 50 al 200 con for
+                       suma=0;
+                        for(c=50; c<=200; c++){
+                          Console.Write("{0} ",c);   
+                        }
+                    Console.WriteLine("\nla suma es {0} ",suma);
+                   }break;
+                   case 4 :{//numeros del 2 al 100 pares con 100
+                       suma=0;
+                        for(c=2; c<=100; c+=2){
+                          Console.Write("{0} ",c);   
+                        }
+                    Console.WriteLine("\nla suma es {0} ",suma);
+                   }break; 
+                   case 5 :{//numeros de 99 a el 1 impares usando for
+                       suma=0;
+                        for(c=99; c>=1; c--){
+                          Console.Write("{0} ",c);   
+                        }
+                    Console.WriteLine("\nla suma es {0} ",suma);
+                   }break; 
+                   case 6 :{ //numeros del 100 al 1 usando do.. while
+                        c=1272;suma=0;
+                           do{
+                                Console.Write("{0} ",c);
+                                suma+=c;
+                                c-=4;
+                        }while(c>=4);
+                        Console.WriteLine("\nla suma es {0} ",suma);
+                   }   break;
+                }
+                     
+            
              return 0;
         }
         static void Menu(){
