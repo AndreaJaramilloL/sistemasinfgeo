@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\ref\6pizza.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\bin\Debug\net5.0\6pizza.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\ref\6pizza.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\6pizza\obj\Debug\net5.0\6pizza.genruntimeconfig.cache
