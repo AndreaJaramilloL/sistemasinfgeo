@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\ref\14vectorest.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\bin\Debug\net5.0\14vectorest.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\ref\14vectorest.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\14vectorest\obj\Debug\net5.0\14vectorest.genruntimeconfig.cache
