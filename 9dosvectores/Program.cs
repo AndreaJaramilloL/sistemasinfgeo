@@ -1,4 +1,4 @@
-﻿//9 prorama que genere dos arrelos de 15 numeros aleatorios y los suma en un tercer vector
+﻿//9 prorama que genere dos vectores de 15 numeros aleatorios y los suma en un tercer vector
 
 using System;
 
@@ -14,6 +14,7 @@ namespace _9dosvectores
             int [] C = new int[TAM];
             Random rnd = new Random();
         Console.WriteLine("programa que suma dos vectores y suma dos vectores de 15 numeros aleatorios y los suma en un tercer vector");
+            
             for(int i=0; i<TAM; i++){
                 A[i]=rnd.Next(1,100);
                 B[i]=rnd.Next(1,100);
@@ -25,7 +26,7 @@ namespace _9dosvectores
            //Console.WriteLine("Programa que genera de 15 en 15 numeros aleatorios y los suma en un tercer vector!");
         }
         static void imprime(int[] v){
-            for(int i=0;i<v.Length;i++)
+            for(int i=0; i<v.Length; i++)
     Console.Write("{0}",v[i]);
         }
     }
