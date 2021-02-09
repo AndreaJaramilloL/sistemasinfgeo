@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\ref\10vectorcubo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\bin\Debug\net5.0\10vectorcubo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\ref\10vectorcubo.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\10vectorcubo\obj\Debug\net5.0\10vectorcubo.genruntimeconfig.cache
