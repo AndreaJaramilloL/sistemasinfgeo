@@ -12,11 +12,11 @@ namespace _4pagot
 
             float impuesto, pagabruta, paganeta;
 
-            Console.WriteLine("Calculo de la paga de un trabajador \n);
+            Console.WriteLine("Calculo de la paga de un trabajador \n");
 
             Console.WriteLine("Nombre del trabajador:"); nombre = Console.ReadLine();
             Console.WriteLine("Horas trabajadas     :"); horas = int.Parse(Console.ReadLine());
-            Console.WriteLine("Pago por hora        :"); paga = float.Parse(Console.ReadLine());
+            Console.WriteLine("Paga por hora        :"); paga = float.Parse(Console.ReadLine());
 
             pagabruta = horas * paga;
             impuesto = pagabruta * tasa;
