@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\ref\11sumavec.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\bin\Debug\net5.0\11sumavec.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\ref\11sumavec.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\11sumavec\obj\Debug\net5.0\11sumavec.genruntimeconfig.cache
