@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\ref\12ve.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\bin\Debug\net5.0\12ve.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\ref\12ve.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\12ve\obj\Debug\net5.0\12ve.genruntimeconfig.cache
