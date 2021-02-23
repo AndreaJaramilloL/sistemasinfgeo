@@ -1,0 +1,16 @@
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.exe
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.deps.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.runtimeconfig.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.runtimeconfig.dev.json
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\ref\13vectorM.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\bin\Debug\net5.0\13vectorM.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\ref\13vectorM.dll
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.pdb
+C:\Users\Andrea\Desktop\SistemasInGeo\Programas\13vectorM\obj\Debug\net5.0\13vectorM.genruntimeconfig.cache
