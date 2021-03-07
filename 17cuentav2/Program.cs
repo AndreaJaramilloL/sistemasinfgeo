@@ -5,43 +5,47 @@ namespace _16cuentav1
     {
         static void Main(string[] args)
         {
-            bool retiro;
-            Banco mibanco = new Banco("Banco", "Andrea Jaramillo");
-            CuentaBancaria micuenta1 = new CuentaBancaria(100);
-            CuentaBancaria micuenta2 = new CuentaBancaria(300);
-            Cliente micliente1 = new Cliente("Juan perez");
-            Cliente micliente2 = new Cliente("Maria Lopez");
-            Cliente micliente3 = new Cliente();
-            micliente3.Nombre="Miguel Mendeza";
-            micliente1.Cuenta = micuenta1;
-            micliente2.Cuenta = micuenta2;
-            micliente3.Cuenta = new CuentaBancaria(10000);
-            micuenta1.Deposita(300);
-            retiro = micuenta2.Retira(500);
-            if(retiro) Console.WriteLine("retiro exitoso");
-            else Console.WriteLine("no se puede retirar la cantidad solicitada");
-            micliente3.Cuenta.Deposita(10000);
-            micliente2.Cuenta.Retira(100);
-            //agregar clientes existentes al banco
-            mibanco.AgregarCliente(micliente1);
-            mibanco.AgregarCliente(micliente2);
-            mibanco.AgregarCliente(micliente3);
-            mibanco.AgregarCliente(new Cliente("rubén Ibarra"));//crea y agreg un nuevo cliente
-            mibanco.Clientes[3].Cuenta = new CuentaBancaria(50000);//crear y agregar una cuenta bancaria al nuevo cliente        
-            //salida
-            Console.WriteLine("control bancario");
-            Console.WriteLine("saldo cuenta 1 : {0}", micuenta1.Saldo);
-            Console.WriteLine("saldo cuenta 2 : {0}", micuenta2.Saldo);
-            Console.WriteLine("cliente 1: nombre : {0}, saldo : {1}", micliente1.Nombre, micliente1.Cuenta.Saldo );
-            Console.WriteLine("cliente 2: nombre : {0}, saldo : {1}", micliente2.Nombre, micliente2.Cuenta.Saldo );
-            Console.WriteLine("cliente 3: nombre : {0}, saldo : {1}", micliente3.Nombre, micliente3.Cuenta.Saldo );
-            //Imprimir reporte bancario 
-            Console.WriteLine("\nReporte bancario");
-            Console.WriteLine($"\nBanco {mibanco.Nombre}, Propietario {mibanco.Propietario}");
-            foreach(Cliente cte in mibanco.Clientes){
-                Console.WriteLine($"Nombre: {cte.Nombre}, Saldo:{cte.Cuenta.Saldo}");
+        mibanco.AgregaCliente(new Cliente("Amalia Garcia"));//0
+        mibanco.AgregaCliente(new Cliente("Miguel alonso"));//0
+        mibanco.AgregaCliente(new Cliente("Alejandro tello"));//0
+        mibanco.AgregaCliente(new Cliente("Ricardo Monreal"));//0
+
+//cliente 0
+        mibanco.Clientes[0].AgregaCuenta(new CuentaDeAhorro(5500,.10);      
+        mibanco.Clientes[0].AgregaCuenta(new CuentaDeAhorro(1000,400);  
+        mibanco.Clientes[1].AgregaCuenta(new CuentaDeAhorro(6000,.05);  
+        mibanco.Clientes[1].AgregaCuenta(new CuentaDeAhorro(8000,300);  
+        mibanco.Clientes[2].AgregaCuenta(new CuentaDeAhorro(118000,400);  
+        mibanco.Clientes[3].AgregaCuenta(new CuentaDeAhorro(150000,0.4);  
+        mibanco.Clientes[3].AgregaCuenta(new CuentaDeAhorro(30000,0.3);  
+
+        Console.WriteLine("\n Reporte Bancario");
+        Console.WriteLine("\n Banco : {0} Propietario: {1}", mibanco.Nombre, mibanco.Propietario);
+        foreach(Cliente cte in mibanco.Clientes){
+            Console.WriteLine($"Nombre: {cte.Nombre}, Tiene: {cte.Cuentas.Count} cuentas");
+            foreach(CuentaBancaria cta in cte.Cuentas){
+                Console.WriteLine( (cta is CuentaDeCheques) ? "cuenta de cheques ": "cuenta de ahorro");
+                Console.WriteLine($"{ccta.Saldo}");
             }
-            Console.WriteLine("\ntotal de clientes  {0}", mibanco.Clientes.Count);
+
+        }
+
+        }
+        static void PruebaCuentas()
+        {
+            CuentaDeAhorro = miahorro1 = new CuentaDeAhorro(5500,0.1);
+            CuentaDeCheques = miahorro1 = new CuentaDeCheques(900,500);
+
+            //miahorro
+            miahorro1.Deposita(1500);
+            miahorro1.Retira(100);
+            Console.WriteLine("mi ahorro 1 {0},miahorro1.Saldo");
+            miahorro1.CalcularIntereses();
+            Console.WriteLine("mi ahorro 1 {0}",miahorro1.Saldo);
+
+            //micheque
+
+
         }
     }
 }

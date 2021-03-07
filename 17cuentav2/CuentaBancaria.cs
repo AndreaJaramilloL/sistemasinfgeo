@@ -3,7 +3,7 @@ namespace _16cuentav1
     public class CuentaBancaria
     {
         
-        private double saldo;
+        protected double saldo;//permite que las clases que eredan uedan acceder a esta variavle
 
         public CuentaBancaria(double){
             this.saldo=saldo;
@@ -15,7 +15,7 @@ namespace _16cuentav1
        public void Deposita(double cant){
            saldo+=cant;
        }
-       public bool Retira(double cant) {
+       public virtual bool Retira(double cant) {// este metodo puede ser sobrecargado en la calse
            if(saldo>=cant){
                saldo-=cant;
                return true;
