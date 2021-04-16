@@ -1,21 +1,27 @@
 using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Globalization;
 
-class Alumno{
-    private string nombre;//CLASE Vulnerabilidad
-    private int edad;
-    private DateTime fechaing;
-    private string becado, calificaciones; 
+public class Alumno{
 
-    public Alumno(string nombre, int edad, DateTime fechaing, string becado, string calificaciones){
+    public string nombre{get;set;}
+    public int edad{get;set;}
+    public DateTime fechaing{get;set;}
+    public string becado{get;set;} 
+    public string calificaciones{get;set;}
+ 
+    public int numProfesor{get;set;}
+
+    public Alumno(){}
+
+    public Alumno(int numProfesor,string nombre, int edad, DateTime fechaing, string becado, string calificaciones){
         this.nombre = nombre;
         this.edad = edad; 
         this.fechaing = fechaing; 
         this.calificaciones = calificaciones;
         this.becado = becado;
-    }
-
-    public string getBecado(){
-        return becado;
+        this.numProfesor = numProfesor;
     }
 
     public int getPromedio(){
@@ -28,7 +34,7 @@ class Alumno{
         return prom;
     }
 
-        public override string ToString(){
+    public override string ToString(){
             int epocaActual = DateTime.Now.Year;
             int epocaIngreso = fechaing.Year;
             string mensaje="";
@@ -43,5 +49,6 @@ class Alumno{
         +"Prom: "+getPromedio()+ ", "+"Mensaje: "+mensaje;
         }
 
-
 }
+
+ 

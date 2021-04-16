@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuelav1\\Escuelav1.csproj": {}
+    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuelav1\\Escuelav1.csproj": {
+    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuelav1\\Escuelav1.csproj",
-        "projectName": "Escuelav1",
-        "projectPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuelav1\\Escuelav1.csproj",
+        "projectUniqueName": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj",
+        "projectName": "Escuela1",
+        "projectPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj",
         "packagesPath": "C:\\Users\\cris_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuelav1\\obj\\",
+        "outputPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cris_\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

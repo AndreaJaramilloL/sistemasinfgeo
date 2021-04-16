@@ -2,7 +2,6 @@ using System;//CLASE NODO
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-
 class Profesor{
     private string nombre, grupo, materia; 
     private DateTime fechaing; 

@@ -1,83 +1,57 @@
-using System;//CLASE RED
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Globalization;
 
-class Institucion{
+public class Escuela{
+    
+    public string nombre{get;set;}
+    public string encargado{get;set;}
+    public string domicilio{get;set;}
+    public int salariosTotales{get;set;} = 0;
+    public int salarioMayor{get;set;} = 0;
+    public int salarioMenor{get;set;} = 0;
+    public List<Profesor> listaProfesores{get;set;}
+    public List<Alumno> listaAlumnos{get;set;}
 
-    private string nombre, encargado, domicilio;
-    private int posicion = -1, cantAlumnos;
-    public int [] salarios = new int[10];   
-    public Profesor [] profesores;
+    public Escuela(){}
 
-    private HashSet<string> grupos;
-
-    public int salarioMayor,salarioMenor; 
-
-    public Institucion(string nombre, string encargado, string domicilio){
+    public Escuela(string nombre, string encargado, string domicilio){
         this.nombre = nombre;
         this.encargado = encargado;
         this.domicilio = domicilio;
-        grupos = new HashSet<string>();
-        profesores = new Profesor[20];
+        listaProfesores = new List<Profesor>();
+        listaAlumnos = new List<Alumno>();
     }
 
-
-    public void agregarProfesor(string nombre, DateTime fechaing, string grupo, string materia, int salario){
-        Profesor profesor = new Profesor(nombre,fechaing,grupo,materia,salario);
-        grupos.Add(grupo);
-        profesores[posicion+1] = profesor;
-        salarios[posicion+1] = salario;
-        posicion++;
-    }
-
-    public void agregarAlumno(int numProfesor, string nombre, int edad, DateTime fechaing, string becado, string calificaciones){
-        Alumno alumno = new Alumno(nombre,edad,fechaing,becado,calificaciones);
-        Profesor profesor = (Profesor)profesores[numProfesor-1];
-        profesor.agregarAlumno(alumno);
-        cantAlumnos++;
-        
-    }
-    
-    //devuelve el total de grupos que existen en la escuela, sin que exista un duplicado de estos. 
-    public int getGrupos(){
-        return grupos.Count;
-    }
-
-    //devuelve el nombre de la escuela.
-
-    public string getNombre(){
-        return nombre;
-    }
-
-    public Profesor[] getProfesores(){
-        return profesores;
-    }
-
-    public int getCantAlumnos(){
-        return cantAlumnos++;
-    }
-
-
-    public int getSalarioTotal(){
-        salarioMayor = salarios[0];
-        salarioMenor = salarios[0];
-        int salarioTotal = 0;
-        for(int pos=1; pos<salarios.Length; pos++){
-            if(salarios[pos] > salarioMayor){
-                salarioMayor = salarios[pos];
+    public int getTotalBecados(){
+        int conteo = 0;
+        foreach(Alumno a in listaAlumnos){
+            if(a.becado.ToLower().Equals("si")){
+                conteo++;
             }
-            salarioTotal+=salarios[pos];
-        }  
-        salarioMenor = salarios[3];     
-        return salarioTotal+salarios[0];
+        }
+        return conteo;
     }
 
-    public string getEncargado(){
-        return encargado;
+    public void getSalarios(){
+        foreach(Profesor p in listaProfesores){
+            salarioMayor = p.salario;
+            salarioMenor = p.salario;
+            break;
+        }
+        foreach(Profesor p in listaProfesores){
+            if(p.salario > salarioMayor){
+                salarioMayor = p.salario;
+            }else{
+                salarioMenor = p.salario;
+            }
+            salariosTotales+=p.salario;
+        }
     }
 
-    public string getDomicilio(){
-        return domicilio;
+    public override string ToString(){
+        return "Nombre  : "+nombre+"\n"+  "Encargado  : "+encargado +"\n"+ "Domicilio  : "+domicilio;
     }
 
 }
