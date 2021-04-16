@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj": {}
+    "C:\\Users\\Andrea\\Desktop\\SistemasInGeo\\Programas\\Parcial2\\Escuela1\\Escuela1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj": {
+    "C:\\Users\\Andrea\\Desktop\\SistemasInGeo\\Programas\\Parcial2\\Escuela1\\Escuela1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj",
+        "projectUniqueName": "C:\\Users\\Andrea\\Desktop\\SistemasInGeo\\Programas\\Parcial2\\Escuela1\\Escuela1.csproj",
         "projectName": "Escuela1",
-        "projectPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\Escuela1.csproj",
-        "packagesPath": "C:\\Users\\cris_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cris_\\OneDrive\\Escritorio\\Escuela1\\obj\\",
+        "projectPath": "C:\\Users\\Andrea\\Desktop\\SistemasInGeo\\Programas\\Parcial2\\Escuela1\\Escuela1.csproj",
+        "packagesPath": "C:\\Users\\Andrea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrea\\Desktop\\SistemasInGeo\\Programas\\Parcial2\\Escuela1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cris_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Andrea\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
